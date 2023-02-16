@@ -31,8 +31,6 @@ node index.js --domain=<fqdn>
 
 Example output:
 
-``
-node index.js --domain=google.com
+``node index.js --domain=google.com``
 
-google.com,com,142.250.200.142,US
-``
+``google.com,com,142.250.200.142,US``
