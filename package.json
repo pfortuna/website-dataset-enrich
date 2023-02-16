@@ -1,0 +1,17 @@
+{
+  "name": "website-dataset-enrich",
+  "version": "1.0.0",
+  "description": "A simple script to data-enrich a list of domains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Fortuna <pedro.fortuna@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "dns-query": "^0.11.2",
+    "geoip-lite": "^1.4.7",
+    "tld-extract": "^2.1.0"
+  }
+}
